@@ -1,0 +1,7 @@
+[package]
+name = "lsmidi"
+version = "0.1.0"
+authors = ["Jack Wrenn <me@jswrenn.com>"]
+
+[dependencies]
+alsa = "0.2"
